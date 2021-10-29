@@ -10,4 +10,6 @@ elif(mass_of_copper < mass_of_lead): print("Az ólom nehezebb")
 else: print("Az ólom súlya megegyezik a réz súlyával")
 
 #Eredetileg órán:
+
+
 print(mass_of_copper>mass_of_copper)

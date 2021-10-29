@@ -4,6 +4,7 @@
 # Tartalmaz: in
 # Nem tart.: not in
 
+
 python = "akármilyenhosszúszövegmegteszi:)"
 print("'python string' 1. karaktere:",python[0])
 print("utolsó: ",python[5])
